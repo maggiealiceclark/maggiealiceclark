@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi y'all 👋, I'm Maggie</h1>
-<h3 align="center">An enthusiastic Data Scientist from TN seeking opportunities in NYC </h3>
+<h3 align="center">A passionate Data Scientist from TN seeking opportunities in NYC </h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maggiealiceclark" alt="maggiealiceclark" /></a> </p>
 
